@@ -14,7 +14,7 @@ Can click the video block show on the left side, will display the youtube video.
 ## Components relationship diagram
 
 \
-![](https://i.imgur.com/y50WlaI.png =400x)
+![Imgur Image](https://i.imgur.com/y50WlaIm.png)
 
 ---
 
